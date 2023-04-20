@@ -61,4 +61,4 @@ Se você deseja contribuir para este projeto, basta seguir os seguintes passos:
 
 ### Autor
 
-Este projeto foi desenvolvido por [seu nome aqui], como parte do projeto final da disciplina de Desenvolvimento Web.
+Este projeto foi desenvolvido por Nickolas Madeiro, André e Leandro Soares, como parte do projeto final da disciplina de Desenvolvimento Web.
